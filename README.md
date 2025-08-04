@@ -8,6 +8,26 @@ Hello! I'm Abeza Getachew, a dedicated Junior IT Officer and Odoo Developer with
 
 With hands-on experience in network troubleshooting, hardware maintenance, and user training, I bridge the gap between end users and core systems, while also contributing to internal development projects including Odoo ERP enhancements.
 
+## My Role at Bunna Bank
+
+    🌐 Network Support: Resolve connectivity issues and provide network troubleshooting to maintain stable branch operations.
+
+    🧰 Hardware & Peripheral Maintenance: Maintain and support computers, printers, scanners, and other devices.
+
+    💻 System Setup & Installation: Install and configure required software and hardware for employees and departments.
+
+    🔐 User Account Management: Manage domain accounts and enforce security policies via Windows Active Directory.
+
+    🛠️ Preventive Maintenance: Conduct regular checkups and maintenance across branches to prevent downtime.
+
+    👨‍💼 End-User Support: Provide frontline support to users of the bank’s systems and guide them on effective system usage.
+
+    🧑‍🤝‍🧑 Team Collaboration: Work with IT teams to deliver efficient, end-to-end issue resolution.
+
+    📅 EOD Operations: Execute End-of-Day processes to ensure data integrity and proper system closure.
+
+    🔒 Security Compliance: Identify and report any IT security incidents as per internal protocols.
+
 - 🌱 Currently learning: **Odoo 18, REST APIs, and advanced Odoo reporting (QWeb & XLSX)**
 - 🔭 Working on: **A Property Management System for landlords and tenants using Odoo**
 - 🌍 Languages: **Python, JavaScript, HTML, CSS, English, Amharic**
