@@ -65,7 +65,7 @@ This Odoo module manages **properties**, **tenants**, **leases**, **payments**, 
   - 📥 Excel Export of leases
   - 📆 Cron job for lease expiry notifications
 
-🔗 Check the repo: [odoo18](https://github.com/AbezaGetachew/Property_management_System)
+🔗 Check the repo: [odoo18](https://github.com/abeza5389getachew/Property_management_System)
 
 ---
 
