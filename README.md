@@ -82,8 +82,8 @@ This Odoo module manages **properties**, **tenants**, **leases**, **payments**, 
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/abeza-getachew) *(add your actual LinkedIn if available)*
-- 📧 Email: **abezagetsc@gmail.com**
+- 💼 [LinkedIn]https://www.linkedin.com/in/abeza-getachew/
+- 📧 Email: **abeza5389getachew@gmail.com**
 
 ---
 
