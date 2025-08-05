@@ -1,7 +1,5 @@
 # Hi there, I'm Abeza Getachew! 👋
 
-![Odoo Developer Banner](https://github.com/AbezaGetachew/AbezaGetachew/blob/main/banner.png) <!-- Optional: Replace with your actual banner image -->
-
 ## 🧑‍💻 About Me
 
 Hello! I'm Abeza Getachew, a dedicated Junior IT Officer and Odoo Developer with a strong foundation in IT support, systems administration, and ERP customization. I currently work at Bunna Bank, where I provide technical support across various banking systems and ensure the smooth operation of IT infrastructure at both head office and branch levels.
@@ -73,10 +71,10 @@ This Odoo module manages **properties**, **tenants**, **leases**, **payments**, 
 
 ## 📂 Featured Repositories
 
-- 🔸 [odoo18](https://github.com/AbezaGetachew/odoo18): Property Management Module for Odoo 18
-- 🔸 [E-commerce](https://github.com/AbezaGetachew/E-commerce): Basic e-commerce template with HTML/CSS
-- 🔸 [js-super](https://github.com/AbezaGetachew/js-super): JavaScript learning playground
-- 🔸 [Ecommerce-site](https://github.com/AbezaGetachew/Ecommerce-site): Front-end for an online store
+- 🔸 [odoo18](https://github.com/abeza5389getachew/odoo18): Property Management Module for Odoo 18
+- 🔸 [E-commerce](https://github.com/abeza5389getachew/E-commerce): Basic e-commerce template with HTML/CSS
+- 🔸 [js-super](https://github.com/abeza5389getachew/js-super): JavaScript learning playground
+- 🔸 [Ecommerce-site](https://github.com/abeza5389getachew/Ecommerce-site): Front-end for an online store
 
 ---
 
