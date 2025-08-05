@@ -31,7 +31,7 @@ With hands-on experience in network troubleshooting, hardware maintenance, and u
 - 🌱 Currently learning: **Odoo 18, REST APIs, and advanced Odoo reporting (QWeb & XLSX)**
 - 🔭 Working on: **A Property Management System for landlords and tenants using Odoo**
 - 🌍 Languages: **Python, JavaScript, HTML, CSS, English, Amharic**
-- 📫 Reach me at: **abezagetsc@gmail.com**
+- 📫 Reach me at: **abeza.getachew@bunnabanksc.com**
 - ⚡ Fun fact: I debug with coffee ☕ and deploy with confidence!
 
 ---
