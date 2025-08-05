@@ -71,7 +71,7 @@ This Odoo module manages **properties**, **tenants**, **leases**, **payments**, 
 
 ## 📂 Featured Repositories
 
-- 🔸 [odoo18](https://github.com/abeza5389getachew/odoo18): Property Management Module for Odoo 18
+- 🔸 [Property Management](https://github.com/abeza5389getachew/Property-Management-System): Property Management Module for Odoo 18
 - 🔸 [E-commerce](https://github.com/abeza5389getachew/E-commerce): Basic e-commerce template with HTML/CSS
 - 🔸 [js-super](https://github.com/abeza5389getachew/js-super): JavaScript learning playground
 - 🔸 [Ecommerce-site](https://github.com/abeza5389getachew/Ecommerce-site): Front-end for an online store
